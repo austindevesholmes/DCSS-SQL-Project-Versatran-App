@@ -1,4 +1,4 @@
---This script was created for the Versans Tyler Application. 
+--This script was created for the Versatrans Tyler Application. 
 
 SELECT DISTINCT
 cl.name AS CalendarName, 
